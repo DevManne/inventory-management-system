@@ -97,7 +97,7 @@ export default function App() {
       {all.length > 0 && <StockChart all={all} />}
 
       <footer className="app-footer">
-        K. Vineel (2023001769) · GITAM School of Technology · Web Application Development
+        Hemanth Manne (2023003773) · GITAM School of Technology · Web Application Development
       </footer>
     </div>
   );

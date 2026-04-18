@@ -1,0 +1,17 @@
+[
+  { "id": 1, "name": "Wireless Mouse", "category": "Electronics", "stock": 45, "price": 799, "supplier": "TechZone Pvt Ltd" },
+  { "id": 2, "name": "Mechanical Keyboard", "category": "Electronics", "stock": 12, "price": 2499, "supplier": "TechZone Pvt Ltd" },
+  { "id": 3, "name": "USB-C Hub", "category": "Electronics", "stock": 3, "price": 1299, "supplier": "Gadget World" },
+  { "id": 4, "name": "A4 Notebook", "category": "Stationery", "stock": 200, "price": 49, "supplier": "PaperMart" },
+  { "id": 5, "name": "Ballpoint Pen Box", "category": "Stationery", "stock": 8, "price": 120, "supplier": "PaperMart" },
+  { "id": 6, "name": "Stapler", "category": "Stationery", "stock": 2, "price": 250, "supplier": "OfficeHub" },
+  { "id": 7, "name": "Desk Lamp", "category": "Furniture", "stock": 18, "price": 999, "supplier": "BrightHome" },
+  { "id": 8, "name": "Ergonomic Chair", "category": "Furniture", "stock": 4, "price": 12999, "supplier": "ComfortPlus" },
+  { "id": 9, "name": "Whiteboard", "category": "Furniture", "stock": 7, "price": 3499, "supplier": "OfficeHub" },
+  { "id": 10, "name": "Hand Sanitizer 500ml", "category": "Hygiene", "stock": 60, "price": 199, "supplier": "CleanCare" },
+  { "id": 11, "name": "Face Mask Box (50pcs)", "category": "Hygiene", "stock": 1, "price": 350, "supplier": "CleanCare" },
+  { "id": 12, "name": "Laptop Stand", "category": "Electronics", "stock": 22, "price": 1599, "supplier": "Gadget World" },
+  { "id": 13, "name": "HDMI Cable 2m", "category": "Electronics", "stock": 35, "price": 399, "supplier": "TechZone Pvt Ltd" },
+  { "id": 14, "name": "Sticky Notes Pack", "category": "Stationery", "stock": 5, "price": 89, "supplier": "PaperMart" },
+  { "id": 15, "name": "Monitor 24-inch", "category": "Electronics", "stock": 9, "price": 18999, "supplier": "Gadget World" }
+]
